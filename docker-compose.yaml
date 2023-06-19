@@ -4,5 +4,5 @@ services:
     expedition:
         build: .
         ports: 
-            -'8084:80'
+            - '8084:80'
         
