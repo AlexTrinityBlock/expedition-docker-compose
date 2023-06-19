@@ -1,0 +1,8 @@
+version: "3.8"
+
+services:
+    expedition:
+        build: .
+        ports: 
+            -'8084:80'
+        
